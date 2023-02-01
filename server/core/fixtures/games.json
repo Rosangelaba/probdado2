@@ -1,0 +1,24 @@
+[
+  {
+    "model": "core.game",
+    "pk": 1,
+    "fields": {
+      "dado1": "1",
+      "dado2": "1"
+    },
+    "fields": {
+      "dica": "os números são iguais"
+    }
+  },
+  {
+    "model": "core.game",
+    "pk": 2,
+    "fields": {
+      "dado1": "1",
+      "dado2": "1"
+    },
+    "fields": {
+      "dica": "um dos números é primo"
+    }
+  }
+]
